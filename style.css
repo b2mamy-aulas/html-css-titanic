@@ -1,0 +1,29 @@
+body{
+    background-color: lightskyblue;
+    font-family: 'Segoe UI';
+}
+
+h1{
+    color: blue;
+    font-size: 100pt;
+}
+
+nav{
+    background-color: black;
+}
+
+img{
+    width: 400px;
+    height: 250px;
+}
+
+button{
+    background-color: mediumblue;
+    width: 200px;
+    height: 35px;
+    color: white;
+}
+
+marquee{
+    font-size: 60pt;
+}
